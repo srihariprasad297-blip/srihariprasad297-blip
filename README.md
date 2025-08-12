@@ -3,8 +3,6 @@
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/srihariprasad7078)
 
-
-
 ## About Me
 
 I'm a data enthusiast building things with **JavaScript**, **Python**, and **Java**. I enjoy open-source, learning new tools, and improving developer experiences.

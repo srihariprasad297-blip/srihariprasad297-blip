@@ -2,8 +2,9 @@
 # Hi there 👋 I'm **Your Name**
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/your_twitter?style=social)](https://twitter.com/your_twitter)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/srihariprasad7078
-)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/
+srihariprasad7078)
+
 
 
 ## About Me

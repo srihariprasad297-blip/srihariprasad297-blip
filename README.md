@@ -9,7 +9,7 @@
 
 I'm a data enthusiast building things with **JavaScript**, **Python**, and **Java**. I enjoy open-source, learning new tools, and improving developer experiences.
 
-- 🔭 I’m currently working on: **ProjectName**
+- 🔭 I’m currently working on: **P**
 - 🌱 I’m currently learning: **Rust / Go / Advanced ML methods**
 - 💬 Ask me about: web dev, APIs, algorithms
 

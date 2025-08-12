@@ -20,14 +20,10 @@ I'm a data enthusiast building things with **JavaScript**, **Python**, and **Jav
 
 **Frameworks & Tools:** React, Node.js, Spring Boot, Docker
 
-## Open Source & Projects
-
-- [ProjectOne](https://github.com/your_username/project-one) — short description
-- [ProjectTwo](https://github.com/your_username/project-two) — short description
 
 ## Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=srihariprasad297-blip&show_icons=true&theme=radical)
 
 ---
 
